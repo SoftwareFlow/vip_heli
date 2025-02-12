@@ -11,7 +11,7 @@ In some cases the Player is logged out (with a friend) on the island and has no 
 So what if you can call a heli for transport?
 
 **Pre-Release**  
-This script isnt ready for a playable server. In this state, the helicopter will not land. The "Landing-Process" is a main problem  
+This script isnt ready for a playable server. In this state, the helicopter will not land. The "Landing-Process" is a main problem
 for NPC-Flight scripts.
 
 # **INSTALL**
