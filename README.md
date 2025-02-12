@@ -29,9 +29,11 @@ Upload the "vip_heli" in your ressource folder. Dont forget to `start vip_heli` 
 - `/helistart`
 
 # Release-State
-- [x] Created in Pre-Release  
+- [x] Created in Pre-Release v0.5.1  
       - basic commands `/heli` and `/helistart`  
       - basic function and logic-hookup
-- [ ] Release with a Fix for landing
+- [ ] v1.0.0 Release with a Fix for landing  
+      - landing function  
+      - Fixed the height messurement
 - [ ] Add more commands for control
 - [ ] Add a NUI for the flight
