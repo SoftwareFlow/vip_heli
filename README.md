@@ -3,7 +3,7 @@
 
 # **ABOUT**
 > [!NOTE]
-> This is a pre-release.
+> This version contains some bugs.
 
 **Thoughts**  
 On my Server i have the cayo-perico island without these bridge. So you have to fly over or get with a boat to the island.
