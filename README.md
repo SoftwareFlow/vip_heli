@@ -5,12 +5,12 @@
 > [!NOTE]
 > This is a pre-release.
 
-**Thoughts**
-On my Server i have the cayo-perico island without these bridge. So you have to fly over or get with a boat to the island.  
-In some cases the Player is logged out (with a friend) on the island and has no plane or boat bought and stored at the island.  
+**Thoughts**  
+On my Server i have the cayo-perico island without these bridge. So you have to fly over or get with a boat to the island.
+In some cases the Player is logged out (with a friend) on the island and has no plane or boat bought and stored at the island.
 So what if you can call a heli for transport?
 
-**Pre-Release**
+**Pre-Release**  
 This script isnt ready for a playable server. In this state, the helicopter will not land. The "Landing-Process" is a main problem  
 for NPC-Flight scripts.
 
@@ -29,8 +29,8 @@ Upload the "vip_heli" in your ressource folder. Dont forget to `start vip_heli` 
 - `/helistart`
 
 # Release-State
-- [x] Created in Pre-Release
-      - basic commands `/heli` and `/helistart`
+- [x] Created in Pre-Release  
+      - basic commands `/heli` and `/helistart`  
       - basic function and logic-hookup
 - [ ] Release with a Fix for landing
 - [ ] Add more commands for control
