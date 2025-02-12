@@ -13,10 +13,10 @@ So what if you can call a heli for transport?
 # **INSTALL**
 Upload the "vip_heli" in your ressource folder. Dont forget to `start vip_heli` or `ensure vip_heli` in your server.cfg - Enjoy your flight!
 
+# **How to use it**
 > [!TIP]
 > While your Helicopter is landing, dont walk around. The NPC will try to be exact at your coords.
 
-# **How to use it**
 1. Call the heli with `/heli`
 2. Get in the helicopter
 3. Set a waypoint at the map
